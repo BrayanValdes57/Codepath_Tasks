@@ -65,6 +65,12 @@ border-radius: 17px;
 #button4:active, #button4.lit {
     background:yellow;
 }
+#button5 {
+    background: LightSalmon;
+}
+#button5:active, #button5.lit {
+    background:OrangeRed;
+}
 /* images and videos max out at full width */
 img,
 video {
