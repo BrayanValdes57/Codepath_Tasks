@@ -38,10 +38,16 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![] http://g.recordit.co/fjz8f6hybN.gif Loosing ![lost](https://user-images.githubusercontent.com/102376236/160201803-478b767e-6cd8-4741-9bab-46809b5735a2.gif)
-![won](https://user-images.githubusercontent.com/102376236/160201812-878a77f8-1154-437b-80d0-371f8245dbe0.gif)
 
-![] http://g.recordit.co/dwldDofiqY.gif
+Lossing demonstration
+![loss](https://user-images.githubusercontent.com/102376236/160202767-aca3dec4-a3f2-4159-9f39-81c964e6d9c0.gif)
+
+Winning demonstration
+![Winning](https://user-images.githubusercontent.com/102376236/160202768-4d2800a3-5d5f-43ff-ba90-d50c760d361f.gif)
+
+Controls and mechanics demonstration
+![Showcase](https://user-images.githubusercontent.com/102376236/160202769-b7bb5213-cca6-4734-bae6-37361aa27cb5.gif)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
