@@ -42,7 +42,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
  Lossing demonstration
  ![loss](https://user-images.githubusercontent.com/102376236/160202767-aca3dec4-a3f2-4159-9f39-81c964e6d9c0.gif)
 
- inning demonstration
+ Winning demonstration
  ![Winning](https://user-images.githubusercontent.com/102376236/160202768-4d2800a3-5d5f-43ff-ba90-d50c760d361f.gif)
 
  Controls and mechanics demonstration
